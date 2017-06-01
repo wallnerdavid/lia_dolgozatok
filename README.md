@@ -2,7 +2,7 @@
 Lia school dissertations (idk why we do this)
 
 
-# Nodejs telepítése
+# Node telepítése
 ````
 sudo apt-get remove --purge nodejs
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
@@ -10,7 +10,7 @@ sudo apt update;
 sudo apt install nodejs
 ````
 
-# Nodejs Használata 
+# Node Használata 
 ````
 node és akármilyen .js fájl
 ````
